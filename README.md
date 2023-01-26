@@ -9,3 +9,6 @@ membership, stock taking and many other else.
 
 SLiMS is licensed under GNU GPL version 3. Please read "GPL-3.0 License.txt"
 to learn more about GPL.
+
+USE XAMP 
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.3.12/xampp-windows-x64-7.3.12-0-VC15-installer.exe/download
