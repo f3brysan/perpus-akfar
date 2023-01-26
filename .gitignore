@@ -4,7 +4,7 @@ images/docs/*
 images/labels/*
 files/*
 repository/*
-config/*
+//config/*
 cache/*
 .DS_Store
 ._.*
